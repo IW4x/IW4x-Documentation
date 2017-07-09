@@ -18,8 +18,9 @@ Folder structure
    -  ``main\``  [5]_
    -  ``mods\``  [6]_
    -  ``players\``  [7]_
-   -  ``userraw\``  [8]_
-   -  ``zone\``  [9]_
+   -  ``usermaps\``  [8]_
+   -  ``userraw\``  [9]_
+   -  ``zone\``  [10]_
 
 .. [1]
    Your Modern Warfare 2 folder.
@@ -46,9 +47,12 @@ Folder structure
    there.
 
 .. [8]
+   Your custom maps are stored here.
+
+.. [9]
    This is a folder we have added for you to store your custom raw- and
    iwd files *(e.g. custom camos etc.)*.
 
-.. [9]
+.. [10]
    \ **Do not touch anything or put anything in here, unless we told you
    to!**\
