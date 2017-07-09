@@ -50,12 +50,12 @@ Conversion
    * **Stock Maps** are the maps located in your ``<Call of Duty 4>/zone/<language>/`` directory
    * **User Maps** are the maps located in your ``<Call of Duty 4>/usermaps/`` directory
    * **Other Maps** are the maps you already converted, they will be in your
-     ``Modern Warfare 2/mods/`` directory
+     ``<Modern Warfare 2>/mods/`` directory
 
 * Select the map you want to convert and click *Export COD4 Map*, this will
   export all required files into your ``<Modern Warfare 2>/mods/`` directory
 * After the export, you can optionally edit the map's CSV source [1]_ or edit the
-  arena to change the name or teams of your map. If
+  arena to change the name or teams of your map.
 * Click on *Build MW2 Map* to create the map, it will be located in ``<Modern Warfare 2>/usermaps/``
 * At this point, you are able to test your map by clicking *Run MW2 Map*
 
