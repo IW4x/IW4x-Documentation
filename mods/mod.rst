@@ -2,7 +2,7 @@
 
    This page is still work in progress.
 
-Create a mod
+Creating a mod
 ============
 
-Nothing here yet :(
+The first step in creating a good mod is to download the required files. A mostly complete raw file dump can be downloaded from `here <https://github.com/FreeTheTech101/IW4-Dump-Files/archive/master.zip>`__.
